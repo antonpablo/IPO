@@ -197,27 +197,34 @@ iframe{
     margin-left: 35%
 }
 table tr th{
-    border: 5px solid blue;
-    color: blueviolet;
+    border: 5px solid #192893;
+    color: 51235b;
     font-size: 1.1em;
     font-weight: bold;
+    background-color: #b1b5d9;
+    color: #1f2447;
 }
 table tr td{
     border: 5px solid black;
     width: 12%;
     height: 10%;
+    text-align: center;
 }
 table tr .rojo{
     background-color:red;
+    color:#010f61;
 }
 table tr .naranja{
     background-color:orange;
+    color:#523472;
 }
 table tr .amarillo{
     background-color:yellow;
+    color:#130f87;
 }
 table tr .verde{
     background-color:green;
+    color:#272c65;
 }
 table tr td img
 {
@@ -226,7 +233,12 @@ table tr td img
     width: 60%;
     height: 30%;
 }
-
+table tr td .p_img
+{
+    margin: 0 16%;
+    width: 60%;
+    height: 30%;
+}
 footer {
     width: 100%;
     height: 80px;
