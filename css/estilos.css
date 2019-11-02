@@ -196,10 +196,35 @@ iframe{
 .plumas section div p{
     margin-left: 35%
 }
-
-.table{
-    width: 100%;
-    height: 100%;
+table tr th{
+    border: 5px solid blue;
+    color: blueviolet;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+table tr td{
+    border: 5px solid black;
+    width: 12%;
+    height: 10%;
+}
+table tr .rojo{
+    background-color:red;
+}
+table tr .naranja{
+    background-color:orange;
+}
+table tr .amarillo{
+    background-color:yellow;
+}
+table tr .verde{
+    background-color:green;
+}
+table tr td img
+{
+    display: block;
+    margin: 0 20%;
+    width: 60%;
+    height: 30%;
 }
 
 footer {
