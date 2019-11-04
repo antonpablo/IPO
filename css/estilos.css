@@ -21,7 +21,7 @@ dd{
 }
 p span{
     display: block;
-    color: #74c0ec;
+    color: #045FB4;
     padding-bottom: 3px;
 }
 
@@ -245,6 +245,7 @@ table tr td .p_img{
     width: 100%;
     float: inline-end;
 }
+
 .rioPrincipal{
     width: 33%;
     float: left;
@@ -261,7 +262,10 @@ table tr td .p_img{
     width: 33%;
     margin-left: 66%;
     font-size: 1.2em;
-      
+}
+
+.rioSecundario2 ul{
+    margin-left: 6%;
 }
 
 footer {
